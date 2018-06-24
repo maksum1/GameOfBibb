@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>background.gif</file>
+        <file>../music.mp3</file>
+    </qresource>
+</RCC>
